@@ -27,10 +27,10 @@ harmony:
   # Profile links, leave blank to ignore
   social: 
     github: hahajh
-    twitter: none
-    facebook: none
-    gplus: +none
-    dribble: none
+    twitter: 
+    facebook: 
+    gplus: 
+    dribble:
     pinterest: 
   # Toggle disclaimer in footer
   show_disclaimer: true
