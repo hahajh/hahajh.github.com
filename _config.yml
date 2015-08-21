@@ -13,7 +13,7 @@ url: http://hahajh.github.io
 harmony:
   name: starring starring night
   # Little description about your site
-  description: -
+  description: 
   meta_description: this is private blog
   basetheme: theme-base-01 # pre defined thmes are darken, blue-water, redish.
   author: # Author details
