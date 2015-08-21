@@ -11,9 +11,9 @@ url: http://hahajh.github.io
 
 # Harmony theme configuration. Please change accordingly.
 harmony:
-  name: eze
+  name: starring starring night
   # Little description about your site
-  description: someone, someday, somewhere
+  description: -
   meta_description: Harmony is free responsive jekyll theme. This will appear in your document head meta (for Google search results) and in your feed.xml site description.
   basetheme: theme-base-01 # pre defined thmes are darken, blue-water, redish.
   author: # Author details
