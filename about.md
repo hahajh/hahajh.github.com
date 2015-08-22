@@ -4,6 +4,5 @@ title: About
 permalink: /about/
 ---
 
-nickname is eze
-</br>
+nickname is eze  
 favorite : blue, cat, squirrel, coding, caffe latte, shinee
