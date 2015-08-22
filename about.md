@@ -5,5 +5,5 @@ permalink: /about/
 ---
 
 nickname is eze
-
+<br>
 favorite : blue, cat, squirrel, coding, caffe latte, shinee
