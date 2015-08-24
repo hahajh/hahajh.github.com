@@ -31,7 +31,7 @@ $EMAIL_ADDRESS = "hahajh@gmail.com";
 // you might want to customise it, or if you were running a generic comment
 // handler you could take it out of the form, but really, who cares what your
 // comment e-mails are titled, as long as you can recognise it?
-$SUBJECT = "starring starring night message";
+$SUBJECT = "Blog comment received";
 
 // The contents of the following file (relative to this PHP file) will be
 // displayed after the comment is received.  Customise it to your heart's
