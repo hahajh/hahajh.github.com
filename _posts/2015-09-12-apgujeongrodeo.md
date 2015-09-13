@@ -1,6 +1,10 @@
 ---
 layout: post
-title: 압구정 로데오 나들이 w.쿵
+title: 압구정 로데오 w.쿵
+categories: small trip
+tags: []
+published: True
+
 ---
 * 캐논 매장  
 미러리스 1위라는 EOS를 보러 갔는데 엄청나게 무거웠다. (내 기준)  
