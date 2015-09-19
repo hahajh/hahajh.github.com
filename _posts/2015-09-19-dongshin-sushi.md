@@ -3,6 +3,7 @@ layout: post
 title: 동신 참치 (강변 테크노마트 9층)
 ---
 강변 테크노마트 9층, 동신 참치  
+![외관에서 눈치를 챘어야 했는데...](https://lh3.googleusercontent.com/-0DZnKORLX6A/Vf1Ej3QQULI/AAAAAAAAADU/REzQ9vVsgqw/s912-Ic42/upload_-1.jpg)
 
 원래 카메라를 팔러가는 길 포스팅에 들어갈 법한 밥 집 포스팅이었는데...  
 밥 먹고 드물게 우울한 기분이 엄청나게 몰려왔던 날이라 굳이 나눠봤다.  
