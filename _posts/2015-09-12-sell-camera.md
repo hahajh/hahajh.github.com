@@ -13,3 +13,4 @@ title: sell camera
 독립하면 데코레이션 할 때 쓸 수 있겄네ㅎ
 
 팔려고 마음 먹고 왠지 아쉬운 마음에 찍은 NEX-3 사진 ! 
+![내 미러리스](https://lh3.googleusercontent.com/-CCy2Cn3dSZo/Vf1EWFeAU-I/AAAAAAAAADM/0NJfxgRrNUI/s912-Ic42/upload_-1.jpg)
