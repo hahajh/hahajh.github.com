@@ -26,3 +26,7 @@ title: 리벤져스 (넷마블)
 털 것이 없는 유저를 털었을때의 메리트가 좀 더 흥미로웠다면 좀 더 했을런지도 모르겠다.  
 
 한동안 우울한 순간을 지켜준 고마운 게임이었는데 조금 아쉽.
+
+요건 1등했다고 신나서 캡쳐한 사진ㅋ  
+내 레벨에서 1등이라 실제로 잘한 건 아닌데 잘한 건줄 알고 캡쳐했었드랬다..ㅋ  
+![리벤져스](http://lh3.googleusercontent.com/-1yfya0q2p7o/VgD3YklmxgI/AAAAAAAAAF0/VqJ0LnKAapI/s1280/upload_-1.jpg)
