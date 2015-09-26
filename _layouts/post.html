@@ -20,7 +20,7 @@ comments : true
 		            {% assign tags_content = tags_content_temp %}
 			    {% endfor %}
 			{% else %}
-			    {% assign tags_content = '' %}
+			    {% assign tags_content = 't' %}
 			{% endif %}
 
 			<p id="post-meta">Posted {{ tags_content }}</p>
