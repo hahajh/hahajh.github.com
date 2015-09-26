@@ -13,8 +13,8 @@ comments : true
 		<div class="post">
 			{{ content }}
 
-			{% if post.tags.size > 3 %}
-			    {% capture tags_content %} with {% if post.tags.size == 1 %}<i class="fa fa-tag"></i>{% else %}<i class="fa fa-tags"></i>{% endif %}: {% endcapture %}
+			{% if post.tags.size > 0 %}
+			    
 			    {% for post_tag in post.tags %}
 			        {% for data_tag in site.data.tags %}
 			            {% if data_tag.slug == post_tag %}
@@ -27,7 +27,7 @@ comments : true
 			        {% endif %}
 			    {% endfor %}
 			{% else %}
-			    {% assign tags_content = 'test' %}
+			    {% assign tags_content = '' %}
 			{% endif %}
 
 			<p id="post-meta">Posted {{ tags_content }}</p>
