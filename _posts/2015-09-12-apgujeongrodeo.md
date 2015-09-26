@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 압구정 로데오 w.쿵
-tags: [test]
+tags: [test,abc]
 published: True
 
 ---
