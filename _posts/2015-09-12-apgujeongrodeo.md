@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 압구정 로데오 w.쿵
-categories: small trip
 tags: [test]
 published: True
 
