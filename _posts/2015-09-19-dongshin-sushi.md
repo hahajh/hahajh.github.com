@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 동신 참치 (강변 테크노마트 9층)
+title: 동신 참치 in 강변 테크노마트 9층
 tags: [restaurant]
 ---
 강변 테크노마트 9층, 동신 참치  
