@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 압구정 로데오 w.쿵
-tags: [test, abc]
+tags: [small-trip]
 
 ---
 * 캐논 매장  
