@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 지오쿠치나 in 수내
-tags: [restaurant]
+tags: [restaurant, personal-taste]
 ---
 지오쿠치나 w.쿵
 
