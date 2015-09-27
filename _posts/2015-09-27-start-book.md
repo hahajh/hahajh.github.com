@@ -11,6 +11,6 @@ tags: [translation, someday-someday-maybe]
 책 표지 사진  
 몇 번이나 실패했지만 이번엔 꼭 성공하고 싶다. 
 
-제목 : SOMEDAY, SOMEDAY, MAYBE
+제목 : SOMEDAY, SOMEDAY, MAYBE  
 저자 : Lauren graham 
 ![커버 사진](https://lh3.googleusercontent.com/-m4W1ndvPxPA/VgeS7doKQlI/AAAAAAAAAHs/nqDJayk5Tc4/s512-Ic42/upload_-1.jpg)
