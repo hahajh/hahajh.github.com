@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2015.09 영화 '앤트맨', '인턴'
+title: 앤트맨, 인턴 (2015.09)
 tags: [movie, review]
 ---
 최근에 본 영화는 "앤트맨"과 "인턴"  
