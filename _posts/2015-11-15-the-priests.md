@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: post
 title: 검은 사제들,the priests (2015.11)
 categories: []
 tags: [movie, review]
