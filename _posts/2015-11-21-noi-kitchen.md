@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 노이키친, 하라롤 (in 산본)
+title: 노이키친, 하라롤 in 산본
 tags: [restaurant, personal-taste]
 ---
 * 노이키친     

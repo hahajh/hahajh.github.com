@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 상해루 (in 동탄)
+title: 상해루 in 동탄
 tags: [restaurant, personal-taste]
 ---
 곡금초 쉐프가 있다는 상해루. 이연복 쉐프의 스승이라고 불리우는, 우리나라 3대 중국요리 쉐프라고 해서 가봤다.  
