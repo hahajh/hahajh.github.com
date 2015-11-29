@@ -13,7 +13,9 @@ tags: [restaurant, personal-taste]
 ![가게 인테리어](http://lh3.googleusercontent.com/-sYA07lnw3XY/VlpKn1KX0VI/AAAAAAAAAbg/AQSswe1S3wo/s1280/upload_-1.jpg)
 젤 맘에 들던 그림. 사실 일어나기 귀찮아서 위의 사진을 찍었는데 어찌 아시고 일어나서 찍어주셔서 얻었다. 크게 보니 훨씬 귀여운 수달. 
 ![수달](http://lh3.googleusercontent.com/-eIC-YHUtzK4/VlpKoxR1tpI/AAAAAAAAAbo/v55VHuLtWgY/s1280/upload_-1.jpg)
-서비스로 받은 샐러드. 수저에 담긴 것이 라코타 치즈인데 꾸덕하지 않고 담백해서 처음엔 뭔가 했다. 심지어 그리 느끼하지도 않았다. 서비스로 받은 것 치곤 양도 많고 훌륭했다.  
+자리마다 조금씩 하나씩 있는 양초. 티라이트 캔들이 들어있어서 불을 키면 밖에서 보기에 이쁜 모양이 된다.    
+![캔들](http://lh3.googleusercontent.com/-o4Z8GAg8Ceo/VlqhnHM2DhI/AAAAAAAAAcU/KzVDd0PS3X8/s1280/upload_-1.jpg)
+서비스로 받은 샐러드. 수저에 담긴 것이 라코타 치즈인데 꾸덕하지 않고 담백해서 처음엔 뭔가 했다. 심지어 그리 느끼하지도 않았다. 서비스로 받은 것 치곤 양도 많고 훌륭했다.       
 ![샐러드](http://lh3.googleusercontent.com/-wM60dbyIS5A/VlpKjzsHyFI/AAAAAAAAAbI/cGT7EIf0Iz0/s1280/upload_-1.jpg) 
 고르곤 졸라 피자는 그리 크지 않은데 음식 두 개를 주문한다고 생각하면 적당하다. 
 ![피자](http://lh3.googleusercontent.com/-rqkQ4S2jSj0/VlpKl2lhF1I/AAAAAAAAAbQ/t_sZP3az1xw/s1280/upload_-1.jpg)
